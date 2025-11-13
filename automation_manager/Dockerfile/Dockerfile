@@ -14,4 +14,3 @@ ENV AWS_DEFAULT_REGION=ap-southeast-2
 
 # Run as a module so that relative imports (from .utils ...) work
 CMD ["python", "-m", "automation_manager.main"]
-README.md

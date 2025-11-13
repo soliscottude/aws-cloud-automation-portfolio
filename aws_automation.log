@@ -1,0 +1,9 @@
+2025-11-13 16:33:23,899 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-11-13 16:58:22,777 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-11-13 16:59:21,082 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-11-13 16:59:22,099 - INFO - start_instance called: i-0d0c06486b6e1b27d, state=stopped, name=MySecondEC2
+2025-11-13 16:59:22,099 - INFO - (Simulation) Starting instance: i-0d0c06486b6e1b27d
+2025-11-13 17:00:05,128 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-11-13 17:00:06,584 - INFO - stop_instance called: i-0d0c06486b6e1b27d, state=stopped, name=MySecondEC2
+2025-11-13 17:10:47,757 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-11-13 17:10:48,784 - INFO - (Simulation) Uploading file: test.txt → s3://scott-static-site-demo/test.txt

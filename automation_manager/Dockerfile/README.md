@@ -32,7 +32,7 @@ CMD ["python", "aws_automation_manager.py"]
 
 ### 1️⃣ Build the Image
 ```
-docker build -t aws_automation:v1 .
+docker build -t aws-automation:v2 .
 ```
 
 ### 2️⃣ Run the Container (with AWS credentials)
