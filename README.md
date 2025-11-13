@@ -114,6 +114,6 @@ I enjoy automation, cloud services, and building practical tools that help peopl
 
 ## 📬 Contact  
 **LinkedIn:** *(add later)*  
-**GitHub:** https://github.com/scottatlas  
+**GitHub:** https://github.com/soliscottude
 
 ---
