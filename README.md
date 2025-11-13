@@ -1,7 +1,7 @@
 # ☁️ AWS Cloud Automation Portfolio  
 ### Automation · AWS · Python · Docker · CI/CD  
 
-Hi, I'm **Scott Yang**, an aspiring **Cloud Support / Junior DevOps Engineer**.  
+Hi, I'm **Scott**, an aspiring **Cloud Support / Junior DevOps Engineer**.  
 This portfolio showcases the hands-on projects I built during my Cloud Support learning journey, including AWS automation, Dockerization, and infrastructure workflows.
 
 ---
