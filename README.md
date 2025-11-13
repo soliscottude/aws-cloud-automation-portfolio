@@ -387,7 +387,7 @@ Shows the structure of the GitHub Actions script used to automate tasks.
 ---
 
 ## 🤝 About Me  
-I'm Scott from New Zealand 🇳🇿 — transitioning into Cloud Support / DevOps.  
+I'm Scott, based in Auckland, New Zealand 🇳🇿 — transitioning into Cloud Support / DevOps.  
 I enjoy automation, cloud services, and building practical tools that help people work smarter.
 
 ---
