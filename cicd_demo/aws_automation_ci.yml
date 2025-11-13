@@ -1,0 +1,28 @@
+name: AWS Automation CI (Simulation)
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run-automation:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r automation_manager/requirements.txt
+
+      - name: Run automation script (simulation mode)
+        env:
+          AWS_DEFAULT_REGION: ap-southeast-2
+        run: |
+          python -m automation_manager.main

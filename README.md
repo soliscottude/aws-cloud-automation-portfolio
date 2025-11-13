@@ -8,6 +8,13 @@ This portfolio showcases the hands-on projects I built during my Cloud Support l
 
 ## 🚀 Projects Overview  
 
+## 📂 Repository Structure
+
+- `automation_manager/` – Python boto3 automation package (EC2 + S3, env-based controls)
+- `docker/` – Dockerfile and notes for containerizing the automation tool
+- `cicd_demo/` – Example GitHub Actions workflow (CI/CD demo)
+- `screenshots/` – Visual evidence of the project running (CLI, Docker, CloudWatch, etc.)
+
 ### **1️⃣ AWS Automation Manager (Python + boto3)**  
 A command-line automation tool that interacts with AWS services using boto3.
 
@@ -103,6 +110,16 @@ A simple static website deployed via **Amazon S3 + CloudFront**.
 | 8–10 | Python + boto3 | AWS automation scripts |
 | 11–12 | Automation Project | EC2/S3 automation + error handling |
 | 13–15 | Dockerization | Docker Hub image + tests |
+
+### 🟦 Day 14 – CloudWatch Monitoring & Linux Essentials
+- Created a demo CloudWatch CPU alarm
+- Practised Linux troubleshooting commands: `top`, `df -h`, `ping`, `journalctl`, `grep`
+- Plan to add screenshots to `/screenshots` (CloudWatch alarm + Linux CLI output)
+
+### 🟩 Day 15 – System Health Review & Exam Prep
+- Reviewed key AWS services: EC2, S3, IAM, CloudFront, CloudWatch
+- Combined automation project + Docker + CI/CD into a single story
+- Started AWS Cloud Practitioner exam preparation (free resources + practice questions)
 
 ---
 
