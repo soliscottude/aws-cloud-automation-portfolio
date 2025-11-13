@@ -394,6 +394,7 @@ I enjoy automation, cloud services, and building practical tools that help peopl
 
 ## 📬 Contact  
 **LinkedIn:** www.linkedin.com/in/scottyangnz
+
 **GitHub:** https://github.com/soliscottude
 
 ---
